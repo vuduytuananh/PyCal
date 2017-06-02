@@ -1,0 +1,25 @@
+------------------------------------ FL-00001 ------------------------------------
+Domain
+	Fleet management: 2.75
+	Operations : 3.525
+	Something: 1.85
+	Blabla: 1.5
+	---: 0.025
+	Domain : 0.025
+Sub-Domain
+	Anything: 2.0
+	Flight Operations : 3.175
+	Fuel Management : 2.2
+	Operations Control: 1.85
+	Something: 2.6
+	---: 0.075
+	Sub Domin: 0.025
+------------------------------------ FL-00002 ------------------------------------
+Domain
+Sub-Domain
+	Something: 2.05
+------------------------------------ FL-00003 ------------------------------------
+Domain
+Sub-Domain
+	Fuel Management : 0.95
+	something: 1.85
