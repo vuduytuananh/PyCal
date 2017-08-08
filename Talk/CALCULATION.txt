@@ -1,338 +1,77 @@
 ------------------------------------ FL-00001 ------------------------------------
 ******************
-| Domain	|	IF9	|	EG13	|	30.0%
-| 		Fleet management: 98.07123287671234	 ===> EG Score:5	
-| 		Operations : 94.58630136986302	 ===> EG Score:5	
-| 		Something: 28.504109589041093	 ===> EG Score:5	
-| 		Blabla: 28.504109589041093	 ===> EG Score:5	
+FL-00001	|	IF_1_1	|	EG_1_1	|	4.0%
+| 		Aviation: 118.52054794520554	 ===> EG Score:5	
+| 		GT: 13.5	 ===> EG Score:5	
+| 		Ground Transport : 76.5698630136987	 ===> EG Score:5	
+| 		Something: 36.0	 ===> EG Score:5	
+| 		Consultancy: 161.0630136986302	 ===> EG Score:5	
+| 		Business: 7.0	 ===> EG Score:4	
 
 ******************
 ******************
-| Domain	|	IF10	|	EG14	|	20.0%
-| 		Fleet management: 2	 ===> EG Score:1	
-| 		Operations : 2	 ===> EG Score:1	
+FL-00001	|	IF_1_2	|	EG_1_3	|	4.0%
+| 		Ground Transport : 2	 ===> EG Score:2	
+| 		Aviation: 1	 ===> EG Score:1	
 
-| Domain	|	IF10	|	EG15	|	20.0%
-| 		Fleet management: 1	 ===> EG Score:1	
-| 		Operations : 3	 ===> EG Score:2	
+FL-00001	|	IF_1_2	|	EG_1_2	|	4.0%
 | 		Something: 1	 ===> EG Score:1	
+| 		Aviation: 3	 ===> EG Score:2	
 
 ******************
 ******************
-| Domain	|	IF11	|	EG16	|	15.0%
-| 		Fleet management: 2	 ===> EG Score:2	
-| 		Operations : 4	 ===> EG Score:4	
-| 		Something: 1	 ===> EG Score:1	
-
-******************
-******************
-| Domain	|	IF12	|	EG17	|	2.5%
-| 		Operations : 1	 ===> EG Score:1	
-
-******************
-******************
-| Domain	|	IF13	|	EG18	|	2.5%
-| 		Operations : 1	 ===> EG Score:1	
-
-******************
-******************
-| Domain	|	IF14	|	EG19	|	2.5%
-| 		Operations : 1	 ===> EG Score:1	
-
-******************
-******************
-| Domain	|	IF15	|	EG20	|	2.5%
-| 		Operations : 5	 ===> EG Score:5	
-
-******************
-******************
-| Domain	|	IF16	|	EG21	|	5.0%
-| 		Operations : 1	 ===> EG Score:1	
-
-******************
-******************
-| Domain	|	IF17	|	EG22	|	15.0%
-| 		Fleet management: 60.03287671232877	 ===> EG Score:5	
-| 		Operations : 50.0054794520548	 ===> EG Score:5	
-
-******************
-******************
-| Domain	|	IF18	|	EG27	|	2.5%
-| 		Operations : 1	 ===> EG Score:1	
-
-******************
-******************
-| Domain	|	IF19	|	EG28	|	2.5%
-| 		---: 1	 ===> EG Score:1	
-| 		Domain : 1	 ===> EG Score:1	
-
-******************
-******************
-| Sub-Domain	|	IF9	|	EG13	|	30.0%
-| 		Anything: 33.07397260273973	 ===> EG Score:5	
-| 		Flight Operations : 50.0054794520548	 ===> EG Score:5	
-| 		Fuel Management : 75.48493150684932	 ===> EG Score:5	
-| 		Operations Control: 13.052054794520549	 ===> EG Score:5	
-| 		Something: 64.99726027397261	 ===> EG Score:5	
-
-******************
-******************
-| Sub-Domain	|	IF10	|	EG14	|	20.0%
-| 		Anything: 1	 ===> EG Score:1	
-| 		Flight Operations : 2	 ===> EG Score:1	
+FL-00001	|	IF_1_3	|	EG_1_4	|	4.0%
+| 		Ground Transport : 2	 ===> EG Score:1	
 | 		Something: 2	 ===> EG Score:1	
-
-| Sub-Domain	|	IF10	|	EG15	|	20.0%
-| 		Anything: 1	 ===> EG Score:1	
-| 		Flight Operations : 1	 ===> EG Score:1	
-| 		Fuel Management : 2	 ===> EG Score:2	
-| 		Operations Control: 1	 ===> EG Score:1	
+| 		Aviation: 3	 ===> EG Score:2	
 
 ******************
 ******************
-| Sub-Domain	|	IF11	|	EG16	|	15.0%
-| 		Anything: 2	 ===> EG Score:2	
-| 		Flight Operations : 3	 ===> EG Score:3	
-| 		Something: 1	 ===> EG Score:1	
-| 		Fuel Management : 2	 ===> EG Score:2	
-| 		Operations Control: 1	 ===> EG Score:1	
+FL-00001	|	IF_1_4	|	EG_1_5	|	4.0%
+| 		Aviation: 1	 ===> EG Score:1	
+| 		GT: 3	 ===> EG Score:3	
 
 ******************
 ******************
-| Sub-Domain	|	IF12	|	EG17	|	2.5%
-| 		Flight Operations : 1	 ===> EG Score:1	
+FL-00001	|	IF_1_5	|	EG_1_6	|	4.0%
+| 		Aviation: 1	 ===> EG Score:1	
+| 		GT: 3	 ===> EG Score:3	
 
 ******************
 ******************
-| Sub-Domain	|	IF13	|	EG18	|	2.5%
-| 		Flight Operations : 1	 ===> EG Score:1	
+FL-00001	|	IF_1_6	|	EG_1_7	|	4.0%
+| 		Ground Transport : 1	 ===> EG Score:5	
+| 		Something: 1	 ===> EG Score:5	
+| 		Aviation: 1	 ===> EG Score:5	
 
 ******************
 ******************
-| Sub-Domain	|	IF14	|	EG19	|	2.5%
-| 		Flight Operations : 1	 ===> EG Score:1	
+FL-00001	|	IF_1_7	|	EG_1_1	|	4.0%
+| 		Helicopter Aviation : 7.0027397260274	 ===> EG Score:4	
+| 		Airline: 99.5506849315069	 ===> EG Score:5	
 
 ******************
 ******************
-| Sub-Domain	|	IF15	|	EG20	|	2.5%
-| 		Flight Operations : 5	 ===> EG Score:5	
+FL-00001	|	IF_1_8	|	EG_1_3	|	4.0%
+| 		Helicopter Aviation : 1	 ===> EG Score:1	
+| 		Airline: 2	 ===> EG Score:2	
+
+FL-00001	|	IF_1_8	|	EG_1_2	|	4.0%
 
 ******************
 ******************
-| Sub-Domain	|	IF16	|	EG21	|	5.0%
-| 		---: 1	 ===> EG Score:1	
-| 		Flight Operations : 1	 ===> EG Score:1	
+FL-00001	|	IF_1_9	|	EG_1_4	|	4.0%
+| 		Helicopter Aviation : 2	 ===> EG Score:1	
+| 		Airline: 2	 ===> EG Score:1	
 
 ******************
 ******************
-| Sub-Domain	|	IF17	|	EG22	|	15.0%
-| 		Flight Operations : 50.0054794520548	 ===> EG Score:5	
-| 		Something: 60.03287671232877	 ===> EG Score:5	
+FL-00001	|	IF_1_10	|	EG_1_5	|	4.0%
+| 		Airline: 6	 ===> EG Score:5	
 
 ******************
 ******************
-| Sub-Domain	|	IF18	|	EG27	|	2.5%
-| 		Flight Operations : 1	 ===> EG Score:1	
-
-******************
-******************
-| Sub-Domain	|	IF19	|	EG28	|	2.5%
-| 		---: 1	 ===> EG Score:1	
-| 		Sub Domin: 1	 ===> EG Score:1	
-
-******************
------------------------------------- FL-00002 ------------------------------------
-******************
-| Domain	|	IF9	|	EG13	|	30.0%
-
-******************
-******************
-| Domain	|	IF10	|	EG14	|	20.0%
-
-| Domain	|	IF10	|	EG15	|	20.0%
-
-******************
-******************
-| Domain	|	IF11	|	EG16	|	15.0%
-
-******************
-******************
-| Domain	|	IF12	|	EG17	|	2.5%
-
-******************
-******************
-| Domain	|	IF13	|	EG18	|	2.5%
-
-******************
-******************
-| Domain	|	IF14	|	EG19	|	2.5%
-
-******************
-******************
-| Domain	|	IF15	|	EG20	|	2.5%
-
-******************
-******************
-| Domain	|	IF16	|	EG21	|	5.0%
-
-******************
-******************
-| Domain	|	IF17	|	EG22	|	15.0%
-
-******************
-******************
-| Domain	|	IF18	|	EG27	|	2.5%
-
-******************
-******************
-| Domain	|	IF19	|	EG28	|	2.5%
-
-******************
-******************
-| Sub-Domain	|	IF9	|	EG13	|	30.0%
-| 		Something: 15.0	 ===> EG Score:5	
-
-******************
-******************
-| Sub-Domain	|	IF10	|	EG14	|	20.0%
-
-| Sub-Domain	|	IF10	|	EG15	|	20.0%
-| 		Something: 2	 ===> EG Score:2	
-
-******************
-******************
-| Sub-Domain	|	IF11	|	EG16	|	15.0%
-| 		Something: 1	 ===> EG Score:1	
-
-******************
-******************
-| Sub-Domain	|	IF12	|	EG17	|	2.5%
-
-******************
-******************
-| Sub-Domain	|	IF13	|	EG18	|	2.5%
-
-******************
-******************
-| Sub-Domain	|	IF14	|	EG19	|	2.5%
-
-******************
-******************
-| Sub-Domain	|	IF15	|	EG20	|	2.5%
-
-******************
-******************
-| Sub-Domain	|	IF16	|	EG21	|	5.0%
-
-******************
-******************
-| Sub-Domain	|	IF17	|	EG22	|	15.0%
-
-******************
-******************
-| Sub-Domain	|	IF18	|	EG27	|	2.5%
-
-******************
-******************
-| Sub-Domain	|	IF19	|	EG28	|	2.5%
-
-******************
------------------------------------- FL-00003 ------------------------------------
-******************
-| Domain	|	IF9	|	EG13	|	30.0%
-
-******************
-******************
-| Domain	|	IF10	|	EG14	|	20.0%
-
-| Domain	|	IF10	|	EG15	|	20.0%
-
-******************
-******************
-| Domain	|	IF11	|	EG16	|	15.0%
-
-******************
-******************
-| Domain	|	IF12	|	EG17	|	2.5%
-
-******************
-******************
-| Domain	|	IF13	|	EG18	|	2.5%
-
-******************
-******************
-| Domain	|	IF14	|	EG19	|	2.5%
-
-******************
-******************
-| Domain	|	IF15	|	EG20	|	2.5%
-
-******************
-******************
-| Domain	|	IF16	|	EG21	|	5.0%
-
-******************
-******************
-| Domain	|	IF17	|	EG22	|	15.0%
-
-******************
-******************
-| Domain	|	IF18	|	EG27	|	2.5%
-
-******************
-******************
-| Domain	|	IF19	|	EG28	|	2.5%
-
-******************
-******************
-| Sub-Domain	|	IF9	|	EG13	|	30.0%
-| 		Fuel Management : 3.5	 ===> EG Score:2	
-| 		something: 12.0	 ===> EG Score:5	
-
-******************
-******************
-| Sub-Domain	|	IF10	|	EG14	|	20.0%
-
-| Sub-Domain	|	IF10	|	EG15	|	20.0%
-| 		Fuel Management : 1	 ===> EG Score:1	
-| 		something: 1	 ===> EG Score:1	
-
-******************
-******************
-| Sub-Domain	|	IF11	|	EG16	|	15.0%
-| 		Fuel Management : 1	 ===> EG Score:1	
-| 		something: 1	 ===> EG Score:1	
-
-******************
-******************
-| Sub-Domain	|	IF12	|	EG17	|	2.5%
-
-******************
-******************
-| Sub-Domain	|	IF13	|	EG18	|	2.5%
-
-******************
-******************
-| Sub-Domain	|	IF14	|	EG19	|	2.5%
-
-******************
-******************
-| Sub-Domain	|	IF15	|	EG20	|	2.5%
-
-******************
-******************
-| Sub-Domain	|	IF16	|	EG21	|	5.0%
-
-******************
-******************
-| Sub-Domain	|	IF17	|	EG22	|	15.0%
-
-******************
-******************
-| Sub-Domain	|	IF18	|	EG27	|	2.5%
-
-******************
-******************
-| Sub-Domain	|	IF19	|	EG28	|	2.5%
+FL-00001	|	IF_1_11	|	EG_1_6	|	4.0%
+| 		Airline: 5	 ===> EG Score:5	
 
 ******************

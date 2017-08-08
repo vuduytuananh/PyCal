@@ -1,4 +1,4 @@
-from Vu.Memory.data import TableDataInterface, EGTab, DataTab, ReferenceTab
+from PyCal.Memory.data import TableDataInterface, EGTab, DataTab, ReferenceTab
 class DataFactory:
     def __init__(self):
         self.__product_map = dict(EG = EGTab(), DataTab = DataTab(), ReferenceTab = ReferenceTab())

@@ -1,4 +1,4 @@
-from Vu.Memory.data_factory import DataFactory
+from PyCal.Memory.data_factory import DataFactory
 
 class Lookup:
     def __init__(self):
